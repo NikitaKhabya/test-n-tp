@@ -10,7 +10,7 @@
   - [ ] Subtask #1
 - [ ] Main Task #2
   - [ ] Subtask #1
-  - [ ] Subtask #2
+- [ ] Main Task #3
 
 ---
 
