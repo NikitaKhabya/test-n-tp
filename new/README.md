@@ -39,12 +39,6 @@ const x = 5;
 console.log(x);
 ```
 
-```python
-def foo():
-    if not bar:
-        return True
-```
-
 ```go
 func main() {
     fmt.Println("Hello, World!")
