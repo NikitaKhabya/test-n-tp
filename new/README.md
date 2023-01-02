@@ -10,7 +10,7 @@
   - [ ] Subtask #1
 - [ ] Main Task #2
   - [ ] Subtask #1
-  - [ ] Subtask #2
+- [ ] Main Task #3
 
 ---
 
@@ -37,12 +37,6 @@ This is `some code` here
 ```javascript
 const x = 5;
 console.log(x);
-```
-
-```python
-def foo():
-    if not bar:
-        return True
 ```
 
 ```go
